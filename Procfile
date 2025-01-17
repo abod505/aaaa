@@ -1,1 +1,1 @@
-worker: pythoh Config.py
+worker: python main.py
