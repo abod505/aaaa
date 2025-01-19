@@ -1,1 +1,1 @@
-worker: python3 Config.py
+worker: python3 main.py
