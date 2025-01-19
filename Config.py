@@ -8,7 +8,7 @@ from Utils.database import Database
 
 # Bot Config
 class config:
-    API_KEY : str = "7978758378:AAFvoB1da8-lf8OsmFcsDyDZICWgSq0eQds" # The API key or Bot Token
+    API_KEY : str = "7641107003:AAH5Uswd5AkyFptq1XAMnvHrcliu1p4q0Wk" # The API key or Bot Token
     API_HASH: str = "4n4sxxxxxxxxxxxxxxxxx" # UsrBot Api Hash
     API_ID  : int = 1234500 # User Bot Api Id
     SUDO    : int = 5260517001 # Sudo Id
